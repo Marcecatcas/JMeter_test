@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1724902387955,664,HTTP Request,200,OK,Thread Group 1-1,text,true,,20271,268,1,1,https://rickandmortyapi.com/api/character,214,0,142
+1724902387955,218,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,303,134,1,1,http://rickandmortyapi.com/api/character,214,0,142
+1724902388176,443,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,19968,134,1,1,https://rickandmortyapi.com/api/character,377,0,307
+1724902389898,412,HTTP Request,200,OK,Thread Group 1-2,text,true,,20271,268,1,1,https://rickandmortyapi.com/api/character,133,0,66
+1724902389898,133,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,303,134,1,1,http://rickandmortyapi.com/api/character,133,0,66
+1724902390032,278,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,19968,134,1,1,https://rickandmortyapi.com/api/character,212,0,144
+1724902391898,412,HTTP Request,200,OK,Thread Group 1-3,text,true,,20271,268,1,1,https://rickandmortyapi.com/api/character,129,0,66
+1724902391898,129,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,303,134,1,1,http://rickandmortyapi.com/api/character,129,0,66
+1724902392028,282,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,19968,134,1,1,https://rickandmortyapi.com/api/character,215,0,144
+1724902393898,402,HTTP Request,200,OK,Thread Group 1-4,text,true,,20270,268,1,1,https://rickandmortyapi.com/api/character,133,0,66
+1724902393898,133,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,303,134,1,1,http://rickandmortyapi.com/api/character,133,0,66
+1724902394032,268,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,19967,134,1,1,https://rickandmortyapi.com/api/character,203,0,134
+1724902395898,409,HTTP Request,200,OK,Thread Group 1-5,text,true,,20271,268,1,1,https://rickandmortyapi.com/api/character,134,0,67
+1724902395898,134,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,303,134,1,1,http://rickandmortyapi.com/api/character,134,0,67
+1724902396032,275,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,19968,134,1,1,https://rickandmortyapi.com/api/character,210,0,142
